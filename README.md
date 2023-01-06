@@ -1,4 +1,26 @@
 # laravel
+Laravel is a web application framework with an expressive, elegant syntax. Its belief is that development should be both enjoyable and creative. Laravel attempts to make development fun by easing common tasks used in most web projects, such as authentication, routing, sessions, templating, caching, and more.
+
+Laravel attempts to combine the very best of what they have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
+
+Where did the name Laravel come from?
+The name Laravel is a made up word, but according to Taylor Otwell, the creator of the framework, the inspiration came from the Narnia books
+
+In Narnia, Cair Paravel is the name of the castle where the kings and queens of Narnia live. Laravel rhymes with Paravel.
+
+When was the first release of Laravel?
+Laravel's first beta release was made available on June 9, 2011, but the v1 wasn't out very long and Laravel v2 was released just a few months later in September of 2011.
+
+Where can I download the Laravel logo?
+The Laravel logo and other brand assets can be found the "Laravel-art" Github Repo.
+
+Who designed the Laravel website and logo?
+The current design of both the site and the logo was designed by Focuslab and it launched on August 2019. You can read more about this in our announcement post.
+
+Who uses Laravel?
+Laravel is one of the most popular PHP frameworks and it is used all over the world by many Fortune 500 companies. Getting an exact list is typically hard since many companies use it for systems that might be web accessible.
+
+
 
 Since its initial release in 2011, Laravel has experienced exponential growth. In 2015, it became the most starred PHP framework on GitHub and rose to the go-to framework for people all over the world. If you'd like to learn more about the history, check out what is Laravel.
 
